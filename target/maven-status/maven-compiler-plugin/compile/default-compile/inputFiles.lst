@@ -1,0 +1,12 @@
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/mapper/AssetMapper.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/Main.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/dto/coincap_api/PriceAtGivenTime.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/dto/coincap_api/AssetCoincapDTO.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/config/AppConstants.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/internal/Wallet.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/service/AssetRetrievalService.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/dto/AssetHistoryApiSearch.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/helper/converter/CsvConverter.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/dto/coincap_api/AssetCsv.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/dto/AssetApiSearch.java
+/Users/cf/IdeaProjects/CryptoWallet/src/main/java/model/internal/Asset.java
