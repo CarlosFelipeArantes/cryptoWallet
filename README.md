@@ -9,14 +9,15 @@ Also, sensible operations that required synchronized operations where used only 
 
 ## Installation
 
-* Should be pre-installed
-  ** Java 11 or up
-  ** Maven or Maven supported IDE, like IntelliJ and more.
+* Should be pre-installed:
+  * Java 11 or up
+  * Maven or Maven supported IDE, like IntelliJ and more.
   
 * Running the program using Maven
-  ** Commands
-  *** mvn clean install
-  *** mvn exec:java
+  
+  Commands
+   * mvn clean install
+   * mvn exec:java
 
 ## Libraries Used
 
