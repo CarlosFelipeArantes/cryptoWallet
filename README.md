@@ -1,4 +1,4 @@
-# CrypoWallet Test
+# CrypoWallet Challenge
 
 This repository concerns with the development of a required test.
 
