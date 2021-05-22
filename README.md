@@ -1,6 +1,6 @@
 # CrypoWallet Challenge
 
-This repository concerns with the development of a required test.
+This repository concerns with the development of a challenge.
 
 For a quick briefing, parallel processing of assets was used.
 No more than three requests can be made in parallel to the API; this was ensured using a FixedThreadPool.
